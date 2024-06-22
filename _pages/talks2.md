@@ -18,7 +18,7 @@ author_profile: true
 
 5.	Recent research on the development of AI, computer vision, and robotic technologies for structural engineering applications. Canada-China Joint Seminar on Structural and Earthquake Engineering. Montréal, Québec, Canada. (Panelist talk)
 6.	Robotic and machine vision methods for structural engineering applications. Sichuan University, Chengdu, China. (Invited presentation)
-7.	Smart Infrastructure Development - Past and Future. University of Glasgow, Glasgow, Scotland, UK.
+7.	Smart Infrastructure Development - Past and Future. University of Glasgow, Glasgow, Scotland, UK. (Invited presentation)
 8.	Development of AI, computer vision, and robotic technologies for structural health monitoring. Queen’s University, Kingston, Ontario, Canada. (Invited presentation)
 9.	Next-generation AI-empowered smart structure development. University of Nottingham, England, UK. (Invited presentation)
 10.	Structural Engineering Positions - Interview Talk. University of Canterbury, Christchurch, New Zealand.
