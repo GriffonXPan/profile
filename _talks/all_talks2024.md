@@ -2,7 +2,6 @@
 title: "2024"
 collection: talks
 type: "Talk"
-permalink: /talks/all_talks.md
 ---
 
 * Recent research on smart infrastructure inspection and monitoring, non-destructive testing, and smart construction. UBCV-UBCO Joint Seminar on Structural and Earthquake Engineering, Kelowna, British Columbia, Canada.
