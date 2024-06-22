@@ -11,54 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Civil Engineering, The University of British Columbia, 2022
+* M.Sc. in Structural Engineering, Imperial College London, 2017
+* B.Eng. in Civil Engineering, National University of Ireland, Galway, 2016
 
-Work experience
+Employment Record
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Research Fellow, The University of British Columbia, 2023 Jan - 2024 Dec
+* Project Manager, The University of British Columbia, Canada, 2023 Jan - 2024 Dec
+* Visiting Postdoctoral Researcher, Tongji University, Shanghai, China, 2024 July - 2024 Sept
+* Substitute Lecturer/Co-instructor, The University of British Columbia, May 2018 - Dec 2024
+* Graduate Research Assistant, The University of British Columbia, May 2018 - Dec 2022
+* Graduate Teaching Assistant, The University of British Columbia, May 2018 - Dec 2022
+* Visiting PhD Student, The University of British Columbia, Sept 2019 - Dec 2019
+* Structural Engineer (intern), Ignatius T. Greaney& Associates, Ireland
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Awards & Achievements
+======
+* 2022	Top Cited Article Award, Earthquake Engineering & Structural Dynamics Journal (top journal)
+* 2020-2022   	President’s Academic Excellence Initiative PhD Award, The University of British Columbia, Canada.
+* 2019	Civil Engineering PhD Excellence Award, The University of British Columbia, Canada.
+* 2019	Faculty of Applied Science Award, The University of British Columbia, Canada.
+* 2018-2022  	PhD Fellowship Award, The University of British Columbia, Canada
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Service to Profession
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Editorial membership:
+  * Editorial board, Frontiers in Built Environment Journal
+  * Youth editorial board, Journal of Intelligent Construction
+  * Editorial advisory board, Sensors Journal 
+* Reviewer:
+  * Computer-aided Civil and Infrastructure Engineering Journal
+  * Engineering Structures Journal
+  * Journal of Building Engineering
+  * Advances in Structural Engineering Journal
+  * Sensors Journal
+  * Canadian Society for Civil Engineering (CSCE)
+  * Canada Foundation for Innovation (CFI) Fund
+* Organizational membership:
+  * Member, Canadian Society for Civil Engineering (CSCE)
+  * Member, Engineers and Geoscientists British Columbia (EGBC)
+  * Member, Structural Engineers Association of British Columbia (SEABC)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
