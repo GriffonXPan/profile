@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 4"
+title: "Teaching experience 2"
 collection: teaching
 type: "CIVL 505 – Seismic Response of Structures"
 permalink: /teaching/UBCteaching2.md
