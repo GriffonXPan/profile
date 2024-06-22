@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 3"
+title: "Teaching experience 1"
 collection: teaching
 type: "CIVL 231 – Structural Mechanics"
 permalink: /teaching/UBCteaching1.md
