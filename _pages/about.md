@@ -25,7 +25,7 @@ Recent news
 * Jun 2024, our team established the first UBCV-UBCO workshop on advanced structural experimental testing technologies including shake table tests and hybrid simulation tests. The UBCV team is led by Prof. Tony Yang. The UBCO team is led by Prof. Shahria Alam.
 * May 2023, I joined the Sensors Journal as an Advisory Panel Member.
 * Apr 2024, our research group received the NSERC-Mitacs grant titled "Smart Automated AI-Driven Digital Construction using 5G network" (~$CAD 640k). I have been leading some sub-projects as a postdoc and project manager, in collaboration with Rogers Communication.
-* Mar 2024, our research group “Codes Acceleration Fund (CAF) - Accelerated Code Implementation of High-Performance Energy Efficient and Carbon-Neutral Modular Buildings”, funded by the National Resources Canada (~$CAD 7 million). I am one of the Co-investigators in the research grant.
+* Mar 2024, our research group received the “Codes Acceleration Fund (CAF) - Accelerated Code Implementation of High-Performance Energy Efficient and Carbon-Neutral Modular Buildings”, funded by the National Resources Canada (~$CAD 7 million). I am one of the Co-investigators in the research grant.
 * Mar 2024, our research group won the Research Excellence Clusters initiative to further develop the "Smart Infrastructure and Construction Research Cluster" at UBC. The cluster consists of elite researchers and industrial partners in Computer Science, Civil Engineering, Mechanical Engineering, and Construction Management.
 * Dec 2023, I was selected as a Postdoctoral Research Fellow for the Mitacs Accelerate Program.
 * Nov 2023, I joined the Journal of Intelligent Construction as a Youth Editorial Board Member.
