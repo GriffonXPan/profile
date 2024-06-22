@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Talks
-======
+
 2024
 1.	Recent research on smart infrastructure inspection and monitoring, non-destructive testing, and smart construction. UBCV-UBCO Joint Seminar on Structural and Earthquake Engineering, Kelowna, British Columbia, Canada.
 2.	Robotic and machine vision technologies towards smarter and more efficient construction, inspection, and monitoring practices in the AEC industry. Hong Kong University of Science and Technology, Hong Kong, China. (Finalist job talk)
