@@ -1,8 +1,8 @@
 ---
 title: "Teaching experience 3"
 collection: teaching
-type: "CIVL 231 – Structural Mechanics"
-permalink: /teaching/UBCteaching1.md
+type: "CIVL 507 – Dynamics of Structures"
+permalink: /teaching/UBCteaching3.md
 venue: "The University of British Columbia, Department of Civil Engineering"
 date: 2020-01-01
 location: "Vancouver, Canada"
