@@ -10,9 +10,9 @@ author_profile: true
 
 2024
 1.	Recent research on smart infrastructure inspection and monitoring, non-destructive testing, and smart construction. UBCV-UBCO Joint Seminar on Structural and Earthquake Engineering, Kelowna, British Columbia, Canada.
-2.	Robotic and machine vision technologies towards smarter and more efficient construction, inspection, and monitoring practices in the AEC industry. Hong Kong University of Science and Technology, Hong Kong, China. (Invited presentation)
+2.	Robotic and machine vision technologies towards smarter and more efficient construction, inspection, and monitoring practices in the AEC industry. The Hong Kong University of Science and Technology, Hong Kong, China. (Invited presentation)
 3.	Robotic and machine vision technologies towards smarter and more efficient construction, inspection, and monitoring practices in the AEC industry. Western University, London, Ontario, Canada. (Invited presentation)
-4.	Robotic and machine vision technologies towards smarter and more efficient construction, inspection, and monitoring practices in the AEC industry. HDR Inc. (Top American design and engineering company with more than 200 offices worldwide), Vancouver, Canada. (Invited presentation)
+4.	Robotic and machine vision technologies towards smarter and more efficient construction, inspection, and monitoring practices in the AEC industry. HDR Inc., Vancouver, Canada. (Invited presentation)
 
 2023
 
@@ -22,12 +22,12 @@ author_profile: true
 8.	Development of AI, computer vision, and robotic technologies for structural health monitoring. Queen’s University, Kingston, Ontario, Canada. (Invited presentation)
 9.	Next-generation AI-empowered smart structure development. University of Nottingham, England, UK. (Invited presentation)
 10.	Structural Engineering Positions - Interview Talk. University of Canterbury, Christchurch, New Zealand.
-11.	Automated modular construction using robotized mobile crane. Nanjing Tech University, Nanjing, China. (Invited presentation)
+11.	Automated modular construction using robotized mobile cranes. Nanjing Tech University, Nanjing, China. (Invited presentation)
 12.	Development of AI, computer vision, and robotic technologies for structural health monitoring. Chongqing University, Chongqing, China. (Invited presentation)
 13.	Vision-based structural health monitoring – past, present, and future. Northwestern Polytechnical University, Xi’an, China. (Invited presentation)
 14.	3D vision-based structural masonry damage detection. Canadian Conference - Pacific Conference on Earthquake Engineering (CCEE-PCEE) 2023, Vancouver, British Columbia, Canada. (Conference presentation)
 15.	Structural damage inspection using low-cost micro aerial vehicles. Canadian Conference - Pacific Conference on Earthquake Engineering (CCEE-PCEE) 2023, Vancouver, British Columbia, Canada. (Conference presentation)
-16.	Automation of mobile crane using reinforcement learning and computer vision approaches. Canadian Conference - Pacific Conference on Earthquake Engineering (CCEE-PCEE) 2023, Vancouver, British Columbia, Canada. (Conference presentation)
+16.	Automation of mobile cranes using reinforcement learning and computer vision approaches. Canadian Conference - Pacific Conference on Earthquake Engineering (CCEE-PCEE) 2023, Vancouver, British Columbia, Canada. (Conference presentation)
 17.	Nonlinear control of shake table using adaptive control method. Canadian Conference - Pacific Conference on Earthquake Engineering (CCEE-PCEE) 2023, Vancouver, British Columbia, Canada. (Conference presentation)
 
 2022
@@ -44,7 +44,7 @@ author_profile: true
 
 2019
 
-24.	Development and Application of Vision-based Technologies for Structural Condition Assessment. The 2nd China-Canada Symposium on Structural & Earthquake Engineering (2nd CCSSEE), 2019, Guangzhou, China. (Invited presentation)
-25.	Vison-based Structural Damage Detection for Reinforced Concrete Structures, The 7th Tongji-UBC Symposium on Earthquake Engineering, 2019, Shanghai, China. (Invited presentation)
+24.	Development and Application of Vision-based Technologies for Structural Condition Assessment. The 2nd China-Canada Symposium on Structural & Earthquake Engineering (2nd CCSSEE), 2019, Guangzhou, China. (Symposium presentation)
+25.	Vison-based Structural Damage Detection for Reinforced Concrete Structures, The 7th Tongji-UBC Symposium on Earthquake Engineering, 2019, Shanghai, China. (Symposium presentation)
 
 
