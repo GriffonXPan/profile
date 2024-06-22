@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "XiaoPan's Homepage"
+title                    : "Xiao Pan"
 title_separator          : "-"
 name                     : &name "XP"
 description              : &description "personal description"
@@ -21,8 +21,8 @@ repository               : "KnightSoul/XiaoPanGriffon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Xiao Pan"
+  avatar           : "Applicant's photo.jpg"
+  name             : "Xiao (Shawn) Pan"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Research Fellow, Incoming Assistant Professor"
   location         : "Vancouver, Canada"
