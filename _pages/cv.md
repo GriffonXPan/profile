@@ -23,7 +23,7 @@ Employment Record
 * Substitute Lecturer/Co-instructor, The University of British Columbia, May 2018 - Dec 2024
 * Graduate Research Assistant, The University of British Columbia, May 2018 - Dec 2022
 * Graduate Teaching Assistant, The University of British Columbia, May 2018 - Dec 2022
-* Visiting PhD Student, The University of British Columbia, Sept 2019 - Dec 2019
+* Visiting PhD Student, Tongji University, Sept 2019 - Dec 2019
 * Structural Engineer (intern), Ignatius T. Greaney& Associates, Ireland, Apr 2015 - Aug 2015
   
 
