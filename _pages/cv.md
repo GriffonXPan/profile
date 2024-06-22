@@ -24,7 +24,7 @@ Employment Record
 * Graduate Research Assistant, The University of British Columbia, May 2018 - Dec 2022
 * Graduate Teaching Assistant, The University of British Columbia, May 2018 - Dec 2022
 * Visiting PhD Student, The University of British Columbia, Sept 2019 - Dec 2019
-* Structural Engineer (intern), Ignatius T. Greaney& Associates, Ireland
+* Structural Engineer (intern), Ignatius T. Greaney& Associates, Ireland, Apr 2015 - Aug 2015
   
 
 Awards & Achievements
