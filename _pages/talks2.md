@@ -10,8 +10,8 @@ author_profile: true
 
 2024
 1.	Recent research on smart infrastructure inspection and monitoring, non-destructive testing, and smart construction. UBCV-UBCO Joint Seminar on Structural and Earthquake Engineering, Kelowna, British Columbia, Canada.
-2.	Robotic and machine vision technologies towards smarter and more efficient construction, inspection, and monitoring practices in the AEC industry. Hong Kong University of Science and Technology, Hong Kong, China.
-3.	Robotic and machine vision technologies towards smarter and more efficient construction, inspection, and monitoring practices in the AEC industry. Western University, London, Ontario, Canada.
+2.	Robotic and machine vision technologies towards smarter and more efficient construction, inspection, and monitoring practices in the AEC industry. Hong Kong University of Science and Technology, Hong Kong, China. (Invited presentation)
+3.	Robotic and machine vision technologies towards smarter and more efficient construction, inspection, and monitoring practices in the AEC industry. Western University, London, Ontario, Canada. (Invited presentation)
 4.	Robotic and machine vision technologies towards smarter and more efficient construction, inspection, and monitoring practices in the AEC industry. HDR Inc. (Top American design and engineering company with more than 200 offices worldwide), Vancouver, Canada. (Invited presentation)
 
 2023
@@ -19,8 +19,8 @@ author_profile: true
 5.	Recent research on the development of AI, computer vision, and robotic technologies for structural engineering applications. Canada-China Joint Seminar on Structural and Earthquake Engineering. Montréal, Québec, Canada. (Panelist talk)
 6.	Robotic and machine vision methods for structural engineering applications. Sichuan University, Chengdu, China. (Invited presentation)
 7.	Smart Infrastructure Development - Past and Future. University of Glasgow, Glasgow, Scotland, UK.
-8.	Development of AI, computer vision, and robotic technologies for structural health monitoring. Queen’s University, Kingston, Ontario, Canada.
-9.	Next-generation AI-empowered smart structure development. University of Nottingham, England, UK.
+8.	Development of AI, computer vision, and robotic technologies for structural health monitoring. Queen’s University, Kingston, Ontario, Canada. (Invited presentation)
+9.	Next-generation AI-empowered smart structure development. University of Nottingham, England, UK. (Invited presentation)
 10.	Structural Engineering Positions - Interview Talk. University of Canterbury, Christchurch, New Zealand.
 11.	Automated modular construction using robotized mobile crane. Nanjing Tech University, Nanjing, China. (Invited presentation)
 12.	Development of AI, computer vision, and robotic technologies for structural health monitoring. Chongqing University, Chongqing, China. (Invited presentation)
