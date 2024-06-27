@@ -12,7 +12,7 @@ title                    : "Xiao Pan"
 title_separator          : "-"
 name                     : &name "XP"
 description              : &description "personal description"
-url                      : https://griffonxpan.github.io/profile # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://griffonxpan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GriffonXPan/profile.github.io"
 
