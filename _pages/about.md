@@ -17,7 +17,7 @@ My research falls in smart and resilient structural and construction engineering
 * Infrastructure inspection, monitoring, and performance assessment
 * Nondestructive measurement, testing, and simulation
 * Modular structures
-* Robotic and modular construction
+* Automation in modular construction
 
 Recent news
 ======
