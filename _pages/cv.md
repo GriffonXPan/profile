@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Civil Engineering, The University of British Columbia, 2022
-* M.Sc. in Structural Engineering, Imperial College London, 2017
-* B.Eng. in Civil Engineering, National University of Ireland, Galway, 2016
+* Ph.D., The University of British Columbia, 2022
+* M.Sc., Imperial College London, 2017
+* B.Eng., National University of Ireland, Galway, 2016
 
 Employment Record
 ======
