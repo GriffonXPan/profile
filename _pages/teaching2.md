@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-My area of teaching interests focuses on structural and earthquake engineering. Over the past couple of years, I have been actively engaged in teaching and tutoring graduate and undergraduate courses. The description of each course and my associated responsibilities are detailed below.
+My area of teaching interests focuses on structural and earthquake engineering. Over the past couple of years, I have been actively engaged in teaching and tutoring graduate and undergraduate courses.
 
 Jan 2020 - Present	Co-instructor/Substitute Lecturer, The University of British Columbia, Canada
  * CIVL 231 – Structural Mechanics
