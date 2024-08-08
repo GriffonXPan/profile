@@ -21,7 +21,7 @@ My research falls in smart and resilient structural and construction engineering
 
 Recent news
 ======
-* Jul 2024, our research group will be conducting large-scale shake table tests at the International Joint Research Laboratory of Earthquake Engineering (ILEE) at Tongji University. Stay tuned for future updates!
+* Oct 2024, our research group will be conducting large-scale shake table tests at the International Joint Research Laboratory of Earthquake Engineering (ILEE) at Tongji University. Stay tuned for future updates!
 * Jun 2024, our team established the first UBCV-UBCO workshop on advanced structural experimental testing technologies including shake table tests and hybrid simulation tests. The UBCV team is led by Prof. Tony Yang. The UBCO team is led by Prof. Shahria Alam.
 * May 2023, I joined the Sensors Journal as an Advisory Panel Member.
 * Apr 2024, our research group received the NSERC-Mitacs grant titled "Smart Automated AI-Driven Digital Construction using 5G network" (~$CAD 640k). I have been leading some sub-projects as a postdoc and project manager, in collaboration with Rogers Communication.
