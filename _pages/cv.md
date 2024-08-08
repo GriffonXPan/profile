@@ -17,14 +17,14 @@ Education
 
 Employment Record
 ======
-* Postdoctoral Research Fellow, The University of British Columbia, 2023 Jan - 2024 Dec
-* Project Manager, The University of British Columbia, Canada, 2023 Jan - 2024 Dec
-* Visiting Postdoctoral Researcher, Tongji University, Shanghai, China, 2024 July - 2024 Sept
-* Substitute Lecturer/Co-instructor, The University of British Columbia, May 2018 - Dec 2024
-* Graduate Research Assistant, The University of British Columbia, May 2018 - Dec 2022
-* Graduate Teaching Assistant, The University of British Columbia, May 2018 - Dec 2022
-* Visiting PhD Student, Tongji University, Sept 2019 - Dec 2019
-* Structural Engineer (intern), Ignatius T. Greaney& Associates, Ireland, Apr 2015 - Aug 2015
+* Postdoctoral Research Fellow, The University of British Columbia, 2023-2024
+* Project Manager, The University of British Columbia, Canada, 2023-2024
+* Visiting Postdoctoral Researcher, Tongji University, Shanghai, China, 2024-2024
+* Substitute Lecturer/Co-instructor, The University of British Columbia, 2020-2024
+* Graduate Research Assistant, The University of British Columbia, 2018-2022
+* Graduate Teaching Assistant, The University of British Columbia, 2018-2022
+* Visiting PhD Student, Tongji University, 2019-2019
+* Structural Engineer (intern), Ignatius T. Greaney& Associates, Ireland, 2015-2015
   
 
 Awards & Achievements
