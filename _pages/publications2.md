@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I have published over 20 technical articles including top journal papers at, Computer-aided Civil and Infrastructure Engineering, Engineering Structures, Journal of Building Engineering, Earthquake Engineering & Structural Dynamics, and Thin-walled Structures, etc.
+I have published over 30 technical articles including top journal papers in Computer-aided Civil and Infrastructure Engineering, Engineering Structures, Journal of Building Engineering, Earthquake Engineering & Structural Dynamics, and Thin-walled Structures, etc.
 
 Selected recent 10 publications
 ======
