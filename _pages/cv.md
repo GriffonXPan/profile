@@ -11,31 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D., The University of British Columbia, 2022
-* M.Sc., Imperial College London, 2017
-* B.Eng., National University of Ireland, Galway, 2016
+* Ph.D., The University of British Columbia
+* M.Sc., Imperial College London
+* B.Eng., National University of Ireland, Galway
 
-Employment Record
+Professional Experience
 ======
-* Postdoctoral Research Fellow, The University of British Columbia, 2023-2024
-* Project Manager, The University of British Columbia, Canada, 2023-2024
-* Visiting Postdoctoral Researcher, Tongji University, Shanghai, China, 2024-2024
-* Substitute Lecturer/Co-instructor, The University of British Columbia, 2020-2024
-* Graduate Research Assistant, The University of British Columbia, 2018-2022
-* Graduate Teaching Assistant, The University of British Columbia, 2018-2022
-* Visiting PhD Student, Tongji University, 2019-2019
+* Postdoctoral Research Fellow & Project Manager, UBC, Canada, 2023-2024
+* Visiting Postdoctoral Researcher, Tongji University, China, 2024-2024
+* Substitute Lecturer/Co-instructor, UBC, Canada, 2020-2024
+* Graduate Research/Teaching Assistant, UBC, Canada, 2018-2022
+* Visiting PhD Student, Tongji University, China, 2019-2019
 * Structural Engineer (intern), Ignatius T. Greaney& Associates, Ireland, 2015-2015
   
 
 Awards & Achievements
 ======
 * 2022	Top Cited Article Award, Earthquake Engineering & Structural Dynamics Journal (top journal)
-* 2020-2022   	President’s Academic Excellence Initiative PhD Award, The University of British Columbia, Canada.
-* 2019	Civil Engineering PhD Excellence Award, The University of British Columbia, Canada.
-* 2019	Faculty of Applied Science Award, The University of British Columbia, Canada.
-* 2018-2022  	PhD Fellowship Award, The University of British Columbia, Canada
+* 2020-2022   	President’s Academic Excellence Initiative PhD Award, UBC, Canada
+* 2019	Civil Engineering PhD Excellence Award, UBC, Canada
+* 2019	Faculty of Applied Science Award, UBC, Canada
+* 2018-2022  	PhD Fellowship Award, UBC, Canada
 
-Service to Profession
+Professional Services
 ======
 * Editorial membership:
   * Editorial board, Frontiers in Built Environment Journal
