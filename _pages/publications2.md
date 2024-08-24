@@ -21,7 +21,7 @@ My research falls in smart and resilient structural and construction engineering
 Research opportunities
 ======
 * __Student Openings__: Multiple positions are available in my research team for MPhil/PhD students (at HKUST) or MASc/PhD students (at UBC), who are expected to work on the development of AI and smart technologies to address structural and construction engineering problems. Prospective students should have a suitable academic background in civil engineering, mechanical engineering, computer science, robotics, applied mathematics, or related disciplines. Prior knowledge or programming experience in AI, robotics, and computer vision is considered an asset. Please email me your CV and transcripts if you are interested.
-* __Research Collaboration Openings__: I am co-investigating multiple research projects at the Smart Infrastructure and Construction Research Excellence Cluster (SICRC) at UBC with a focus on 1) digital twin solutions for construction automation, 2) AI-empowered structural design, testing, and simulation. Interested and self-motivated researchers with a suitable background are welcome to contact me to discuss collaboration opportunities.
+* __Research Collaboration Openings__: I am co-investigating multiple research projects with a focus on 1) digital twin solutions for construction automation, 2) AI-empowered structural design, testing, and simulation. Interested and self-motivated researchers with a suitable background are welcome to contact me to discuss collaboration opportunities (remote/on-site/hybrid mode).
 
 Publications
 ======
