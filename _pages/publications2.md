@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications2/
 author_profile: true
 redirect_from:
@@ -9,10 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-I have published over 30 technical articles including top journal papers in Computer-aided Civil and Infrastructure Engineering, Engineering Structures, Journal of Building Engineering, Earthquake Engineering & Structural Dynamics, and Thin-walled Structures, etc.
-
-Selected recent 10 publications
+Research interests
 ======
+My research falls in smart and resilient structural and construction engineering. My research interests include:
+* Infrastructure inspection, monitoring, and performance assessment
+* AI and digital twin technologies for structural design, testing, and simulation
+* Seismic behavior of structures
+* Modular structures
+* Construction automation
+
+Research opportunities
+======
+* __Student Openings__: Multiple positions are available in my research team for MPhil/PhD students (at HKUST) or MASc/PhD students (at UBC), who are expected to work on the development of AI and smart technologies to address structural and construction engineering problems. Prospective students should have a suitable academic background in civil engineering, mechanical engineering, computer science, robotics, applied mathematics, or related disciplines. Prior knowledge or programming experience in AI, robotics, and computer vision is considered an asset. Please email me your CV and transcripts if you are interested.
+* __Research Collaboration Openings__: I am co-investigating multiple research projects at the Smart Infrastructure and Construction Research Excellence Cluster (SICRC) at UBC with a focus on 1) digital twin solutions for construction automation, 2) AI-empowered structural design, testing, and simulation. Interested and self-motivated researchers with a suitable background are welcome to contact me to discuss collaboration opportunities.
+
+Publications
+======
+I have published over 30 technical articles including top journal papers in Computer-aided Civil and Infrastructure Engineering, Engineering Structures, Journal of Building Engineering, Earthquake Engineering & Structural Dynamics, and Thin-walled Structures, etc. Select recent 10 publications are listed below.
 * Vaze, S., Yang, T. Y., Bagatini-Cachuco, F., Pan, X. (2024). Experimental and numerical investigations of cold-form steel corrugated walls under combined in-plane shear and axial loads. Thin-Walled Structures.
 * Li, C., Su, R., Pan, X. (2024). Assessment of out-of-plane structural defects using parallel laser line scanning system. Computer-aided Civil and Infrastructure Engineering. 39(6), 834-851.
 * Pan, X., Tavasoli, S., Yang, T. Y. (2023). Autonomous 3D vision-based bolt loosening assessment using micro aerial vehicles. Computer-aided Civil and Infrastructure Engineering. 1-12.
