@@ -16,7 +16,7 @@ Recent news
 ======
 * Oct 2024, the UBC Smart Structures Research Group is expected to conduct large-scale shake table tests at the International Joint Research Laboratory of Earthquake Engineering (ILEE) at Tongji University. Stay tuned for future updates!
 * Jun 2024, the UBC Smart Structures Research Group established the first UBCV-UBCO workshop on advanced structural experimental testing technologies including shake table tests and hybrid simulation tests. The UBCV team is led by Prof. Tony Yang. The UBCO team is led by Prof. Shahria Alam.
-* May 2023, I joined the Editorial Board of the Sensors Journal.
+* May 2024, I joined the Editorial Board of the Sensors Journal.
 * Apr 2024, the UBC Smart Structures Research Group received the NSERC-Mitacs grant titled "Smart Automated AI-Driven Digital Construction using 5G network". I have been working on this project as a postdoc and project manager, in collaboration with Rogers Communication.
 * Mar 2024, the UBC Smart Structures Research Group received the Codes Acceleration Fund titled "Accelerated Code Implementation of High-Performance Energy Efficient and Carbon-Neutral Modular Buildings”, funded by the National Resources Canada (~$CAD 7 million). I am one of the Co-investigators in the research grant.
 * Mar 2024, the UBC Smart Structures Research Group won the Research Excellence Clusters initiative to further develop the "Smart Infrastructure and Construction Research Cluster" at UBC. The cluster consists of elite researchers and industrial partners in Computer Science, Civil Engineering, Mechanical Engineering, and Construction Management.
