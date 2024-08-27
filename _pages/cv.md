@@ -27,7 +27,7 @@ Professional Experience
 
 Awards & Achievements
 ======
-* 2024	Globalink Research Award (Imperial College London), Mitacs, Canada
+* 2024	Globalink Research Award (UBC & Imperial College London), Mitacs, Canada
 * 2022	Top Cited Article Award, Earthquake Engineering & Structural Dynamics Journal (top journal)
 * 2020-2022 President’s Academic Excellence Initiative PhD Award, UBC, Canada
 * 2019	Civil Engineering PhD Excellence Award, UBC, Canada
