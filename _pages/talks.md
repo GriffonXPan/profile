@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Selected Talks"
-permalink: /talks2/
+permalink: /talks/
 author_profile: true
 ---
 
