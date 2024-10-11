@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D., The University of British Columbia
-* M.Sc., Imperial College London
-* B.Eng., National University of Ireland, Galway
+* Ph.D., The University of British Columbia (supervisor: Prof. Tony T.Y. Yang)
+* M.Sc., Imperial College London (supervisor: Christian Malaga-Chuquitaype)
+* B.Eng., National University of Ireland, Galway (supervisor: Prof. Padraic O'Donoghue)
 
 Professional Experience
 ======
-* Postdoctoral Research Fellow & Project Manager (funded by NSERC, Mitacs, Rogers Communications), Canada, 2023-2024
+* Postdoctoral Research Fellow, UBC, Canada, 2023-2024
 * Visiting Postdoctoral Researcher, Tongji University, China, 2024-2024
 * Substitute Lecturer/Co-instructor, UBC, Canada, 2020-2024
 * Graduate Research/Teaching Assistant, UBC, Canada, 2018-2022
