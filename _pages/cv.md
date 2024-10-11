@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D., The University of British Columbia (supervisor: Prof. Tony T.Y. Yang; Prof. Carlos Ventura)
-* M.Sc., Imperial College London (supervisor: Christian Malaga-Chuquitaype)
+* M.Sc., Imperial College London (supervisor: Dr. Christian Malaga-Chuquitaype)
 * B.Eng., National University of Ireland, Galway (supervisor: Prof. Padraic O'Donoghue)
 
 Professional Experience
