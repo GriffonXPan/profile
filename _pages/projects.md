@@ -22,6 +22,7 @@ Dr. Pan's research projects have been funded by several major research grants wh
 
 Research Projects
 ======
+
 [1]. AI and digital twin-supported structural health monitoring
 ======
 <!--- SHM -->
