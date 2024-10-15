@@ -10,15 +10,14 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            font-size: 20px;
-            margin-left: 400px;
-            margin-right: 400px;
+            font-size: 16px; /* Adjusted for better readability on mobile */
+            margin: 0; /* Removed fixed margins */
+            padding: 20px; /* Added padding for spacing */
             text-align: justify;
             text-justify: inter-word;
         }
 
-        h1,
-        h2 {
+        h1, h2 {
             color: #333;
         }
 
@@ -27,32 +26,41 @@
         }
 
         img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-            /* Makes the image behave like a block-level element */
-            margin: 0 auto;
-            /* Centers the image horizontally */
+            max-width: 100%; /* Ensures images are responsive */
+            height: auto; /* Maintains aspect ratio */
+            display: block; /* Makes the image behave like a block-level element */
+            margin: 0 auto; /* Centers the image horizontally */
         }
 
         .image-container {
-            text-align: center;
-            /* Centers the caption as well */
-            margin: 20px 0;
-            /* Adds some space around the image block */
+            text-align: center; /* Centers the caption as well */
+            margin: 20px 0; /* Adds some space around the image block */
         }
 
         .caption {
             font-size: 0.9em;
             color: #555;
         }
+
+        /* Optional: Add some styling for references section */
+        .references {
+            margin-top: 20px;
+            padding: 10px;
+            border-top: 1px solid #ccc; /* Optional: separates references */
+        }
+
+        /* Media queries for further responsiveness on smaller screens */
+        @media (max-width: 600px) {
+            body {
+                font-size: 14px; /* Slightly smaller font for mobile */
+            }
+        }
     </style>
 </head>
 
 <body>
 
-    <h1>Digital twin-aided finite element modelling</h1>
-
+    <h1>Digital Twin-Aided Finite Element Modelling</h1>
 
     <h2>Overview</h2>
     <p>Finite element (FE) modeling is an essential technique to evaluate the structural response. In this project, a
@@ -61,23 +69,16 @@
         enhance the existing workflow in structural design, performance assessment, and model updating based on the
         as-built geometry.</p>
 
-
     <div class="image-container">
         <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/photos_design/Digital_twin_modelling.png"
-            alt="Sample Image" width="1000">
+            alt="Digital Twin Modelling">
         <p class="caption">Methodology</p>
     </div>
 
     <h2>References</h2>
-    <p>[1]. Xie, F., Pan, X., Yang, T. Y., Ernewein, B., Li, M., Robinson, D. (2024). A computer vision and point cloud
+    <p class="references">[1]. Xie, F., Pan, X., Yang, T. Y., Ernewein, B., Li, M., Robinson, D. (2024). A computer vision and point cloud
         processing-based approach for seismic assessment of a tall irregular timber structure. <i>Structures</i>.
-        <br>
-        <br>
-        <br>
-        <br>
     </p>
-
-
 
 </body>
 
