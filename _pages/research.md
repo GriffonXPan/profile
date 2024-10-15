@@ -22,6 +22,19 @@ Research Opportunities
 * __Student Openings__: Multiple positions are available in my research team for the MPhil/PhD program (at HKUST) or MASc/PhD program (at UBC), which are expected to work on the use of AI and smart technologies for structural and construction engineering applications, design and assessment of novel modular structural systems and energy dissipation approaches, etc. Prospective students should have a suitable academic background in civil engineering, mechanical engineering, computer science, robotics, applied mathematics, or related disciplines. Preference will be given to students with prior knowledge and experience in 1) programming of AI, robotics, computer vision, point cloud analysis, Building Information Modelling (BIM) such as Pytorch, OpenCV, Open3D, ROS, MATLAB, Dynamo BIM, IfcOpenShell, Unity, Unreal Engine, etc. 2) structural analysis software such as OpenSees, Abaqus, Ansys, Etabs, etc. 3) hands-on experimental testing such as quasi-static tests, shake table tests, hybrid simulation tests, etc. Please email me your CV and transcripts if you are interested.
 * __Research Collaboration Potential__: I am co-investigating multiple research projects focusing on 1) design and assessment of modular timber, steel, and hybrid structures. 2) digital twin solutions for construction automation. 2) AI-empowered structural design, testing, and maintenance.  Interested and self-motivated researchers are welcome to contact me to discuss collaboration opportunities (remote/on-site/hybrid mode).
 
+Student Supervision
+======
+I have supervised/co-supervised the following students at UBC:
+* S.Tavasoli (PhD, 2022-present)
+* F.Xie (PhD, 2024-present; MASc, 2023-2024)
+* Z.Chen (PhD, 2024-present; MASc, 2023-2024)
+* Y.Xiao (PhD, 2022-2024)
+* E.Faraji (MASc, 2022-2024)
+* S,Vaze (MASc, 2022-2023)
+* R.Liu (UG intern, 2023)
+* S.Gazi (UG intern, 2022-2023)
+
+
 Publications
 ======
 I have published over 30 technical articles including top journal papers in *Computer-aided Civil and Infrastructure Engineering*, *Engineering Structures*, *Journal of Building Engineering*, *Earthquake Engineering & Structural Dynamics*, and *Thin-walled Structures*, etc. Selected journal publications are listed below (in reverse chronological order).
