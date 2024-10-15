@@ -13,9 +13,6 @@ Dr. Pan's research projects have been funded by several major research grants wh
 * __PI__, Research Start-up Fund. The Hong Kong University of Science and Technology, 2024-2029
 * __CO-I__, Smart automated AI-driven digital construction using Rogers 5G network. Mitacs, Rogers Communication, 2024-2026
 * __CO-I__, Design and assessment of high-performance reusable modular wood panel structures. Mitacs, 2024-2025
-* __PM__, High-performance modular tall buildings toward resilient constructions. NSERC, FPInnovations, 2022-2025
-* __PM__, Next-generation wood construction project. NSERC, NRCan, NRC, FPInnovations, etc., 2023-2028 (role completed)
-* __PM__, Design and assessment of frameless system for seismic applications, NSERC, Behlen Industries, 2023-2028 (role completed)
 
 (*NSERC: Natural Sciences and Engineering Research Council of Canada; NRCan: National Resources Canada; NRC: National Research Council Canada; Mitacs: Nonprofit National Research Organization in Canada; FPInnovation: Nonprofit R&D organization in Canada; Rogers Communications: Top 3 telecom company in Canada; Behlen Industries: Canada's largest manufacturer of steel building systems*)
 
