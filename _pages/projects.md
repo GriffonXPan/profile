@@ -31,16 +31,16 @@ Research Projects
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/postdisaster_framework.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/postdisaster_framework.png" alt="Image 1" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/postdisaster_framework.png" alt="Image 1" width="200" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/postdisaster_framework.html">Postdisaster structural damage and performance assessment</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/postdisaster_framework.html">Postdisaster structural damage and performance assessment</a></p>
   </div>
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/steel_damage.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/steel_damage.png" alt="Image 2" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/steel_damage.png" alt="Image 2" width="200" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/steel_damage.html">Damage detection of steel structures</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/steel_damage.html">Damage detection of steel structures</a></p>
   </div>
 
 </div>
@@ -50,16 +50,16 @@ Research Projects
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/concrete_masonry_damage.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/concrete_masonry_damage.png" alt="Image 3" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/concrete_masonry_damage.png" alt="Image 3" width="200" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/concrete_masonry_damage.html">Damage detection of concrete and masonry structures</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/concrete_masonry_damage.html">Damage detection of concrete and masonry structures</a></p>
   </div>
 
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/bolt_loosening.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/bolt_loosening.png" alt="Image 4" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/bolt_loosening.png" alt="Image 4" width="200" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/bolt_loosening.html">Bolt loosening assessment</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/bolt_loosening.html">Bolt loosening assessment</a></p>
   </div>
 
 </div>
@@ -69,16 +69,16 @@ Research Projects
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/UAV_inspection.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/UAV_damage.png" alt="Image 5" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/UAV_damage.png" alt="Image 5" width="200" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/UAV_inspection.html">UAV-supported inspection</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/UAV_inspection.html">UAV-supported inspection</a></p>
   </div>
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/UGV_inspection.html">
       <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/UGV_damage.png" alt="Image 6" width="300" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/UGV_inspection.html">UGV-supported inspection</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/UGV_inspection.html">UGV-supported inspection</a></p>
   </div>
 
 </div>
@@ -93,16 +93,16 @@ Research Projects
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/Digital_twin_testing.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/Digital_twin_test.png" alt="Image 1" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/Digital_twin_test.png" alt="Image 1" width="200" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/Digital_twin_testing.html">Digital twin-aided structural experimental testing</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/Digital_twin_testing.html">Digital twin-aided structural experimental testing</a></p>
   </div>
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/Digital_twin_modelling.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/Digital_twin_modelling.png" alt="Image 2" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/Digital_twin_modelling.png" alt="Image 2" width="200" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/Digital_twin_modelling.html">Digital twin-aided finite element modelling</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/Digital_twin_modelling.html">Digital twin-aided finite element modelling</a></p>
   </div>
 
 </div>
@@ -112,16 +112,16 @@ Research Projects
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/inerter_damper.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/inerter_damper.png" alt="Image 3" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/inerter_damper.png" alt="Image 3" width="200" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/inerter_damper.html">Design and assessment of inerter devices for seismic control</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/inerter_damper.html">Design and assessment of inerter devices for seismic control</a></p>
   </div>
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/steel_damper.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/steel_damper.png" alt="Image 4" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/steel_damper.png" alt="Image 4" width="200" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/steel_damper.html">Design and assessment of metallic dampers for seismic control</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/steel_damper.html">Design and assessment of metallic dampers for seismic control</a></p>
   </div>
 
 </div>
@@ -131,16 +131,16 @@ Research Projects
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/corrugated_steel.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/corrugated_steel.png" alt="Image 5" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/corrugated_steel.png" alt="Image 5" width="200" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/corrugated_steel.html">Design and assessment of frameless steel corrugated systems</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/corrugated_steel.html">Design and assessment of frameless steel corrugated systems</a></p>
   </div>
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/shake_table_control.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/shake_table_control.png" alt="Image 6" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/shake_table_control.png" alt="Image 6" width="200" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/shake_table_control.html">Nonlinear control algorithms for dynamic shake table tests</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/shake_table_control.html">Nonlinear control algorithms for dynamic shake table tests</a></p>
   </div>
 
 </div>
@@ -154,16 +154,16 @@ Research Projects
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/construction_monitoring.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/construction_monitoring.png" alt="Image 1" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/construction_monitoring.png" alt="Image 1" width="200" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/construction_monitoring.html">Automation in construction monitoring</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/construction_monitoring.html">Automation in construction monitoring</a></p>
   </div>
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/construction_control.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/construction_control.png" alt="Image 2" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/construction_control.png" alt="Image 2" width="200" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/construction_control.html">Advanced control methods for construction automation</a></p>
+    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/construction_control.html">Advanced control methods for construction automation</a></p>
   </div>
 
 </div>
