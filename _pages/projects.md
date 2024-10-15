@@ -27,6 +27,74 @@ Research Projects
 ======
 <!--- SHM -->
 
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Flex container for images */
+    .project-container {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;  /* Allows items to wrap on smaller screens */
+      margin: 20px;
+    }
+
+    /* Each project block */
+    .project {
+      text-align: center;
+      margin: 10px;
+      flex-basis: 200px;  /* Ensure each item takes 200px space */
+    }
+
+    /* Responsive image */
+    .project img {
+      max-width: 100%;  /* Image scales with container */
+      height: auto;
+    }
+
+    /* Media query for smaller screens */
+    @media (max-width: 600px) {
+      .project-container {
+        flex-direction: column;  /* Stack items vertically */
+        align-items: center;  /* Center them horizontally */
+      }
+
+      .project {
+        flex-basis: 100%;  /* Full width on small screens */
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="project-container">
+  
+  <div class="project">
+    <a href="https://GriffonXPan.github.io/profile/files/corrugated_steel.html">
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/corrugated_steel.png" alt="Image 5" width="200">
+    </a>
+    <p><a href="https://GriffonXPan.github.io/profile/files/corrugated_steel.html">Design and assessment of frameless steel corrugated systems</a></p>
+  </div>
+  
+  <div class="project">
+    <a href="https://GriffonXPan.github.io/profile/files/shake_table_control.html">
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/shake_table_control.png" alt="Image 6" width="200">
+    </a>
+    <p><a href="https://GriffonXPan.github.io/profile/files/shake_table_control.html">Nonlinear control algorithms for dynamic shake table tests</a></p>
+  </div>
+
+</div>
+
+</body>
+</html>
+
+
+
+
 <div style="display: flex; justify-content: space-around; gap: 20px;">
   
   <div style="text-align: center;">
