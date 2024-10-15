@@ -22,8 +22,8 @@ Dr. Pan's research projects have been funded by several major research grants wh
 
 Research Projects
 ======
-[1]. AI and digital twin-supported structural health monitoring
-======
+## 1. AI and digital twin-supported structural health monitoring
+
 <!--- SHM -->
 
 
@@ -103,8 +103,8 @@ Research Projects
 
 
 
-[2]. Design and assessment of innovative structures using advanced numerical simulation and experimental testing technologies
-======
+## 2. Design and assessment of innovative structures using advanced numerical simulation and experimental testing technologies
+
 <!--- structural design and assessment -->
 
 <div class="project-container">
@@ -164,8 +164,8 @@ Research Projects
 </div>
 
 
-[3]. AI and digital twin-supported construction automation
-======
+## 3. AI and digital twin-supported construction automation
+
 <!--- construction automation -->
 
 <div class="project-container">
