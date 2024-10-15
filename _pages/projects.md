@@ -27,20 +27,20 @@ Research Projects
 ======
 <!--- SHM -->
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; gap: 20px;">
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/postdisaster_framework.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/postdisaster_framework.png" alt="Image 1" width="200" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/postdisaster_framework.png" alt="Image 1" width="300" />
     </a>
-    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/postdisaster_framework.html">Postdisaster structural damage and performance assessment</a></p>
+    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/postdisaster_framework.html">Postdisaster structural damage and performance assessment</a></p>
   </div>
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/steel_damage.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/steel_damage.png" alt="Image 2" width="200" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/steel_damage.png" alt="Image 2" width="300" />
     </a>
-    <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/steel_damage.html">Damage detection of steel structures</a></p>
+    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/steel_damage.html">Damage detection of steel structures</a></p>
   </div>
 
 </div>
@@ -76,7 +76,7 @@ Research Projects
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/UGV_inspection.html">
-      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/UGV_damage.png" alt="Image 6" width="300" />
+      <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/UGV_damage.png" alt="Image 6" width="200" />
     </a>
     <p style="width: 200px;"><a href="https://GriffonXPan.github.io/profile/files/UGV_inspection.html">UGV-supported inspection</a></p>
   </div>
