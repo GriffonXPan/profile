@@ -37,19 +37,20 @@ Awards & Achievements
 Professional Services
 ======
 * Editorial membership:
-  * Editorial board, Frontiers in Built Environment Journal
-  * Youth editorial board, Journal of Intelligent Construction
-  * Editorial advisory board, Sensors Journal 
+  * Youth Editorial Board, Journal of Intelligent Construction
+  * Review Editor, Frontiers in Built Environment Journal
+  * Advisory Board, Sensors Journal
+  * Guest Editor, Journal of Intelligent Construction (2023-2024); Sensors Journal (2024-2025)
 * Reviewer:
+  * Canada Foundation for Innovation (CFI) Fund
   * Computer-aided Civil and Infrastructure Engineering Journal
   * Engineering Structures Journal
   * Journal of Building Engineering
   * Advances in Structural Engineering Journal
   * Sensors Journal
   * Canadian Society for Civil Engineering (CSCE)
-  * Canada Foundation for Innovation (CFI) Fund
 * Organizational membership:
-  * Board member, Smart Infrastructure and Construction Research Cluster (SICRC), UBC
+  * Academic Member, Smart Infrastructure and Construction Research Cluster (SICRC), UBC
   * Member, Canadian Society for Civil Engineering (CSCE)
   * Member, Engineers and Geoscientists British Columbia (EGBC)
   * Member, Structural Engineers Association of British Columbia (SEABC)
