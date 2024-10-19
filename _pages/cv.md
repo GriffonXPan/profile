@@ -49,6 +49,7 @@ Professional Services
   * Canadian Society for Civil Engineering (CSCE)
   * Canada Foundation for Innovation (CFI) Fund
 * Organizational membership:
+  * Board member, Smart Infrastructure and Construction Research Cluster (SICRC), UBC
   * Member, Canadian Society for Civil Engineering (CSCE)
   * Member, Engineers and Geoscientists British Columbia (EGBC)
   * Member, Structural Engineers Association of British Columbia (SEABC)
