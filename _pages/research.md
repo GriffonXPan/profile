@@ -38,6 +38,7 @@ I have supervised/co-supervised the following students at UBC:
 Publications
 ======
 I have published over 30 technical articles including top journal papers in *Computer-aided Civil and Infrastructure Engineering*, *Engineering Structures*, *Journal of Building Engineering*, *Earthquake Engineering & Structural Dynamics*, and *Thin-walled Structures*, etc. Selected journal publications are listed below (in reverse chronological order).
+* Chen Z, Yang T. Y., Xiao Y, Pan X, Yang W (2024). Model reference adaptive hierarchical control framework for shake table tests. *Earthquake Engineering & Structural Dynamics*, 1-17.
 * Pan, X., & Yang, T. Y.(2024). Bolt loosening assessment using ensemble vision models for automatic localization and feature extraction with target-free perspective adaptation.*Computer-Aided Civil and Infrastructure Engineering*, 1–16.
 * Tavasoli, S., Poorghasem, S., Pan, X., Yang T. Y., Bao Y. (2024). Autonomous indoor navigation and survivor detection using low-cost micro aerial vehicles. *Computer-aided Civil and Infrastructure Engineering*.
 * Li, C., Su, R., Pan, X. (2024). Assessment of out-of-plane structural defects using parallel laser line scanning system. *Computer-aided Civil and Infrastructure Engineering*. 39(6), 834-851.
