@@ -15,13 +15,12 @@ I am an incoming Assistant Professor at The Hong Kong University of Science and 
 Recent news
 ======
 * Incoming test alert: the UBC Smart Structures Research Group is expected to conduct large-scale shake table tests at the International Joint Research Laboratory of Earthquake Engineering (ILEE) at Tongji University. Stay tuned for future updates!
+* Oct 2024, I joined the [Smart Infrastructure and Construction Research Cluster (SICRC)](https://smartconstruction.apsc.ubc.ca/) at UBC as an Affiliated Board Member. The SICRC comprises elite researchers and leading industrial partners in Civil Engineering, Computer Science, Mechanical Engineering, and Construction Management, to catalyze interdisciplinary research on smart infrastructure technologies.
 * Aug 2024, I received the Globalink Research Award from Mitacs to conduct collaborative research between UBC and Imperial College London.
-* Aug 2024, the UBC Smart Structures Research Group won the Mitacs Accelerate Fund titled "Smart Automated AI-Driven Digital Construction using 5G network", funded by Mitacs and Rogers Communication (top 3 telecom company in Canada). I am one of the Co-investigators in the research grant.
-* Jun 2024, the UBC Smart Structures Research Group established the first UBCV-UBCO workshop on advanced structural experimental testing technologies including shake table tests and hybrid simulation tests. The UBCV team is led by Prof. Tony Yang. The UBCO team is led by Prof. Shahria Alam.
+* Aug 2024, the UBC Smart Structures Research Group won the Mitacs Accelerate Fund titled "Smart Automated AI-Driven Digital Construction using 5G network", funded by Mitacs and Rogers Communication (top 3 telecom company in Canada). I am one of the Co-Is/Co-applicants in the research grant.
+* Jun 2024, the first UBCV-UBCO joint workshop was initiated by Prof. Tony Yang and Prof. Shahria Alam on advanced structural experimental testing technologies including shake table tests and hybrid simulation tests.
 * May 2024, I joined the Editorial Board of the Sensors Journal.
-* Mar 2024, the "Smart Infrastructure and Construction Research Cluster" at UBC won the first university initiative to catalyze interdisciplinary research to reach a more significant impact. The cluster consists of elite researchers and industrial partners in Civil Engineering, Computer Science, Mechanical Engineering, and Construction Management.
 * Nov 2023, I joined the Editorial Board of the Journal of Intelligent Construction.
-* Oct 2023, the UBC Smart Structures Research Group won an industrial grant titled "Smart Automated AI-Driven Digital Construction using Rogers 5G network", funded by Rogers Communication. I am one of the Co-investigators in the research grant.
 * Aug 2023, I joined the Editorial Board of the Frontiers in Built Environment Journal.
 * Jan 2023, as a Postdoc and PM, I led subprojects funded by the NSERC Grant "High-Performance Modular Tall Buildings Toward Resilient Constructions", in collaboration with FPInnovation.
 * Jan 2023, as a Postdoc and PM, I led subprojects funded by the NSERC Grant "Next-Generation Wood Construction Project". The research team consists of leading researchers across 10+ universities in Canada.
