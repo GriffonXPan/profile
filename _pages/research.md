@@ -13,8 +13,8 @@ Research Interests
 ======
 My research falls in smart and resilient structural and construction engineering. My research interests include:
 * Infrastructure inspection, monitoring, and maintenance
-* AI and digital twin technologies for structural design and nondestructive testing
-* Innovative modular structures
+* Digital twin-supported structural design and nondestructive testing
+* Design and assessment of innovative modular structures
 * Construction automation
 
 Research Opportunities
@@ -30,7 +30,7 @@ I have supervised/co-supervised the following students at UBC:
 * Z.Chen (PhD, 2024-present; MASc, 2023-2024)
 * Y.Xiao (PhD, 2022-2024)
 * E.Faraji (MASc, 2022-2024)
-* S,Vaze (MASc, 2022-2023)
+* S.Vaze (MASc, 2022-2023)
 * R.Liu (UG intern, 2023)
 * S.Gazi (UG intern, 2022-2023)
 
