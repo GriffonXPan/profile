@@ -43,7 +43,7 @@ I have published over 30 technical articles including top journal papers in *Com
 analysis of a tall irregular timber structure. *Structures*.
 * Pan, X., & Yang, T. Y.(2024). Bolt loosening assessment using ensemble vision models for automatic localization and feature extraction with target-free perspective adaptation.*Computer-Aided Civil and Infrastructure Engineering*, 1–16.
 * Tavasoli, S., Poorghasem, S., Pan, X., Yang T. Y., Bao Y. (2024). Autonomous indoor navigation and survivor detection using low-cost micro aerial vehicles. *Computer-aided Civil and Infrastructure Engineering*.
-* Li, C., Su, R., Pan, X. (2024). Assessment of out-of-plane structural defects using parallel laser line scanning system. *Computer-aided Civil and Infrastructure Engineering*. 39(6), 834-851.
+* Li, C., Su, R., Pan, X. (2024). Assessment of out-of-plane structural defects using parallel laser line scanning system. *Computer-aided Civil and Infrastructure Engineering*. 39(6), 834-851. (Structural Excellence Award by The Hong Kong Institution of Engineers)
 * Vaze, S., Yang, T. Y., Bagatini-Cachuco, F., Pan, X. (2024). Experimental and numerical investigations of cold-form steel corrugated walls under combined in-plane shear and axial loads. *Thin-Walled Structures*. 198, 111677.
 * Pan, X., Tavasoli, S., Yang, T. Y. (2023). Autonomous 3D vision-based bolt loosening assessment using micro aerial vehicles. *Computer-aided Civil and Infrastructure Engineering*. 1-12.
 * Pan, X., Yang, T. Y. (2023). 3D vision-based out-of-plane displacement quantification for steel plate structures using structure from motion, deep learning, and point cloud processing. *Computer-aided Civil and Infrastructure Engineering*. 38, 547– 561.
