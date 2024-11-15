@@ -15,6 +15,7 @@ I am an incoming Assistant Professor at The Hong Kong University of Science and 
 Recent news
 ======
 * Incoming test alert: the UBC Smart Structures Research Group is expected to conduct large-scale shake table tests at the International Joint Research Laboratory of Earthquake Engineering (ILEE) at Tongji University. Stay tuned for future updates!
+* Nov 2024, our paper titled "[Assessment of out-of-plane structural defects using parallel laser line scanning system](https://doi.org/10.1111/mice.13102)" was awarded the Structural Excellence Award 2024 by The Hong Kong Institution of Engineers.
 * Oct 2024, I joined the [Smart Infrastructure and Construction Research Cluster (SICRC)](https://smartconstruction.apsc.ubc.ca/) at UBC as an Affiliated Board Member. The SICRC comprises elite researchers and leading industrial partners in Civil Engineering, Computer Science, Mechanical Engineering, and Construction Management, to catalyze interdisciplinary research on smart infrastructure technologies.
 * Aug 2024, I received the Globalink Research Award from Mitacs to conduct collaborative research between UBC and Imperial College London.
 * Aug 2024, the UBC Smart Structures Research Group won the Mitacs Accelerate Fund titled "Smart Automated AI-Driven Digital Construction using 5G network", funded by Mitacs and Rogers Communication (top 3 telecom company in Canada). I am one of the Co-Is/Co-applicants in the research grant.
