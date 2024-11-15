@@ -27,6 +27,7 @@ Professional Experience
 
 Awards & Achievements
 ======
+* 2024  Structural Excellence Award, The Hong Kong Institution of Engineers, Hong Kong
 * 2024	Globalink Research Award (UBC & Imperial College London), Mitacs, Canada
 * 2022	Top Cited Article Award, Earthquake Engineering & Structural Dynamics Journal (top journal)
 * 2020-2022 President’s Academic Excellence Initiative PhD Award, UBC, Canada
