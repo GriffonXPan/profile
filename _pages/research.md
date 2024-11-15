@@ -24,15 +24,18 @@ Research Opportunities
 
 Student Supervision
 ======
-I have supervised/co-supervised the following students at UBC:
-* S.Tavasoli (PhD, 2022-present)
-* F.Xie (PhD, 2024-present; MASc, 2023-2024)
-* Z.Chen (PhD, 2024-present; MASc, 2023-2024)
-* Y.Xiao (PhD, 2022-2024)
-* E.Faraji (MASc, 2022-2024)
-* S.Vaze (MASc, 2022-2023)
-* R.Liu (UG intern, 2023)
-* S.Gazi (UG intern, 2022-2023)
+I have supervised/co-supervised the following students (program/year/institution):
+* S.Tavasoli (PhD, 2022-present. UBC)
+* F.Xie (PhD, 2024-present; MASc, 2023-2024. UBC)
+* Z.Chen (PhD, 2024-present; MASc, 2023-2024. UBC)
+* H.Lin (RA/Incoming PhD, 2024-present. South China U of Tech)
+* PJ.Chen (Mitacs Master Intern, 2024-present. National Taiwan UST)
+* Y.Xiao (PhD, 2022-2024. UBC)
+* C.Li (PhD, 2023-2023. The University of Hong Kong)
+* E.Faraji (MASc, 2022-2024. UBC)
+* S.Vaze (MASc, 2022-2023. UBC)
+* R.Liu (Mitacs UG intern, 2023. Wuhan U of Tech)
+* S.Gazi (UG intern, 2022-2023. UBC)
 
 
 Publications
