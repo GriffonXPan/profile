@@ -11,8 +11,8 @@ Overview
 ======
 Dr. Pan's research projects have been funded by several major research grants which aim to develop next-generation smart, resilient, and sustainable structures. The main research grants are listed below:
 * __PI__, Research Start-up Fund. The Hong Kong University of Science and Technology, 2024-2029
-* __CO-I__, Smart automated AI-driven digital construction using Rogers 5G network. Mitacs, Rogers Communication, 2024-2026
-* __CO-I__, Design and assessment of high-performance reusable modular wood panel structures. Mitacs, 2024-2025
+* __Co-I__, Smart automated AI-driven digital construction using Rogers 5G network. Mitacs, Rogers Communication, 2024-2026
+* __Co-I__, Design and assessment of high-performance reusable modular wood panel structures. Mitacs, 2024-2025
 
 Research Projects
 ======
