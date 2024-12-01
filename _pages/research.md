@@ -35,6 +35,7 @@ I have supervised/co-supervised the following students (program/year/institution
 * E.Faraji (MASc, 2022-2024. UBC)
 * S.Vaze (MASc, 2022-2023. UBC)
 * R.Liu (Mitacs UG intern, 2023. Wuhan U of Tech)
+* Z.Chen (Mitacs UG intern, 2022. Hong Kong PolyU)
 * S.Gazi (UG intern, 2022-2023. UBC)
 
 
