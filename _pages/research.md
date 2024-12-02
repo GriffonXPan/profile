@@ -27,21 +27,21 @@ Student Supervision
 I have supervised/co-supervised the following students (program/year/institution):
 * S.Tavasoli (PhD, 2022-present. UBC)
 * F.Xie (PhD, 2024-present; MASc, 2023-2024. UBC)
-* Z.Chen (PhD, 2024-present; MASc, 2023-2024. UBC)
-* H.Lin (RA/Incoming PhD, 2024-present. South China U of Tech)
+* ZW.Chen (PhD, 2024-present; MASc, 2023-2024. UBC)
+* HS.Lin (RA/Incoming PhD, 2024-present. South China U of Tech)
 * PJ.Chen (Mitacs Master Intern, 2024-present. National Taiwan UST)
-* Y.Xiao (PhD, 2022-2024. UBC)
-* C.Li (PhD, 2023-2023. The University of Hong Kong)
+* YF.Xiao (PhD, 2022-2024. UBC)
+* CB.Li (PhD, 2023-2023. The University of Hong Kong)
 * E.Faraji (MASc, 2022-2024. UBC)
 * S.Vaze (MASc, 2022-2023. UBC)
-* R.Liu (Mitacs UG intern, 2023. Wuhan U of Tech)
-* Z.Chen (Mitacs UG intern, 2022. Hong Kong PolyU)
+* RW.Liu (Mitacs UG intern, 2023. Wuhan U of Tech)
+* ZH.Chen (Mitacs UG intern, 2022. Hong Kong PolyU)
 * S.Gazi (UG intern, 2022-2023. UBC)
 
 
 Publications
 ======
-I have published over 30 technical articles including top journal papers in *Computer-aided Civil and Infrastructure Engineering*, *Engineering Structures*, *Journal of Building Engineering*, *Earthquake Engineering & Structural Dynamics*, and *Thin-walled Structures*, etc. Selected journal publications are listed below (in reverse chronological order).
+I have published over 30 technical articles including top journal papers in *Computer-aided Civil and Infrastructure Engineering*, *Engineering Structures*, *Earthquake Engineering & Structural Dynamics*, *Journal of Building Engineering*, *Thin-walled Structures*, and *Structures*, etc. Selected journal publications are listed below (in reverse chronological order).
 * Chen Z, Yang T. Y., Xiao Y, Pan X, Yang W (2024). Model reference adaptive hierarchical control framework for shake table tests. *Earthquake Engineering & Structural Dynamics*, 1-17.
 * Xie, F., Pan, X., Yang, T. Y., Ernewein, B., Li, M., Robinson, D. (2024). A novel computer vision and point cloud-based approach for accurate structural
 analysis of a tall irregular timber structure. *Structures*.
