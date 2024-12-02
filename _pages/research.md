@@ -24,10 +24,11 @@ Research Opportunities
 
 Student Supervision
 ======
-I have supervised/co-supervised the following students (program/year/institution):
+I have supervised/co-supervised the following students (program/year of supervision/institution):
 * S.Tavasoli (PhD, 2022-present. UBC)
 * F.Xie (PhD, 2024-present; MASc, 2023-2024. UBC)
 * ZW.Chen (PhD, 2024-present; MASc, 2023-2024. UBC)
+* A.Ghahremani Baghmisheh (PhD, 2024-present. UBC)
 * HS.Lin (RA/Incoming PhD, 2024-present. South China U of Tech)
 * PJ.Chen (Mitacs Master Intern, 2024-present. National Taiwan UST)
 * YF.Xiao (PhD, 2022-2024. UBC)
