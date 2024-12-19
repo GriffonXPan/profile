@@ -164,7 +164,7 @@ Research Projects
     <a href="https://GriffonXPan.github.io/profile/files/construction_monitoring.html">
       <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/construction_monitoring.png" alt="Image 1" width="300" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/construction_monitoring.html">Automation in construction monitoring</a></p>
+    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/construction_monitoring.html">Construction monitoring</a></p>
   </div>
   
   <div style="text-align: center;">
