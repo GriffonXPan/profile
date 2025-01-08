@@ -9,10 +9,7 @@ author_profile: true
 
 Overview
 ======
-Dr. Pan's research projects have been funded by several major research grants which aim to develop next-generation smart, resilient, and sustainable structures. Selected research grants are listed below:
-* __PI__, Research Start-up Fund. The Hong Kong University of Science and Technology, 2024-2029
-* __Co-I__, Smart automated AI-driven digital construction using Rogers 5G network. Mitacs, Rogers Communication, 2024-2026
-* __Co-I__, Design and assessment of high-performance reusable modular wood panel structures. Mitacs, 2024-2025
+Dr. Pan's research projects have been funded by several major research grants in Hong Kong and Canada, which aim to develop novel engineering solutions for next-generation smart, resilient, and sustainable civil infrastructure. A list of selected projects is shown below.
 
 Research Projects
 ======
@@ -35,7 +32,7 @@ Research Projects
 </head>
 <body>
 
-<h2>1. AI and digital twin-supported structural health monitoring</h2>
+<h2>1. AI and digital twin-supported infrastructure inspection and monitoring</h2>
 <div class="project-container">
   
   <div style="text-align: center;">
@@ -94,7 +91,7 @@ Research Projects
 
 
 
-<h2>2. Design and assessment of innovative structures using advanced numerical simulation and experimental testing technologies</h2> 
+<h2>2. Design, numerical simulation, and novel testing methods of innovative structural components and systems under dynamic loads</h2> 
 
 <!--- structural design and assessment -->
 
@@ -164,14 +161,14 @@ Research Projects
     <a href="https://GriffonXPan.github.io/profile/files/construction_monitoring.html">
       <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/construction_monitoring.png" alt="Image 1" width="300" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/construction_monitoring.html">Construction monitoring</a></p>
+    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/construction_monitoring.html">On-site construction monitoring and management</a></p>
   </div>
   
   <div style="text-align: center;">
     <a href="https://GriffonXPan.github.io/profile/files/construction_control.html">
       <img src="https://raw.githubusercontent.com/GriffonXPan/profile/refs/heads/master/images/project_icons/construction_control.png" alt="Image 2" width="300" />
     </a>
-    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/construction_control.html">Advanced control methods for construction automation</a></p>
+    <p style="width: 300px;"><a href="https://GriffonXPan.github.io/profile/files/construction_control.html">Advanced path planning and control for construction robots</a></p>
   </div>
 
 </div>
