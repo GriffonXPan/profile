@@ -20,7 +20,7 @@ My research falls in smart and resilient structural and construction engineering
 Research Opportunities
 ======
 * __Student Openings__: Multiple positions are available in my research team for the MPhil/PhD program (at HKUST) or MASc/PhD program (at UBC), which are expected to work on the use of AI and smart technologies for structural and construction engineering applications, design and assessment of novel modular structural systems and energy dissipation approaches, etc. Prospective students should have a suitable academic background in civil engineering, mechanical engineering, computer science, robotics, applied mathematics, or related disciplines. Preference will be given to students with prior knowledge and experience in 1) programming of AI, computer vision, point cloud analysis, robotics, Augmented/Mixed Reality, Building Information Modelling (BIM), such as Pytorch, OpenCV, Open3D, Hugging Face, OpenMMLab, ROS, MATLAB, Unity, Dynamo BIM, IfcOpenShell, etc. 2) structural analysis software such as OpenSees, Abaqus, Etabs, SAP 2000, etc. 3) hands-on experimental testing such as quasi-static, shake table, and hybrid simulation tests, etc. Please email me your CV and transcripts if you are interested.
-* __Research Collaboration Potential__: I am co-investigating multiple research projects focusing on 1) design and assessment of modular timber, steel, and hybrid structures. 2) digital twin solutions for construction automation. 2) AI-empowered structural design, testing, and maintenance.  Interested and self-motivated researchers are welcome to contact me to discuss collaboration opportunities (remote/on-site/hybrid mode).
+* __Research Collaboration Potential__: I am co-investigating multiple research projects focusing on 1) design and assessment of modular timber, steel, and hybrid structures. 2) digital twin solutions for construction automation. 3) AI-empowered structural design, testing, and maintenance.  Interested and self-motivated researchers are welcome to contact me to discuss collaboration opportunities (remote/on-site/hybrid mode).
 
 Student Supervision
 ======
@@ -44,7 +44,7 @@ I have supervised/co-supervised the following students (program/year of supervis
 Publications
 ======
 I have published over 30 technical articles including top journal papers in *Computer-aided Civil and Infrastructure Engineering*, *Engineering Structures*, *Earthquake Engineering & Structural Dynamics*, *Journal of Building Engineering*, *Thin-walled Structures*, and *Structures*, etc. Selected journal publications are listed below (in reverse chronological order).
-* Chen Z, Yang T. Y., Xiao Y, Pan X, Yang W (2024). Model reference adaptive hierarchical control framework for shake table tests. *Earthquake Engineering & Structural Dynamics*, 1-17.
+* Chen Z, Yang T. Y., Xiao Y, Pan X, Yang W (2025). Model reference adaptive hierarchical control framework for shake table tests. *Earthquake Engineering & Structural Dynamics*, 1-17.
 * Xie, F., Pan, X., Yang, T. Y., Ernewein, B., Li, M., Robinson, D. (2024). A novel computer vision and point cloud-based approach for accurate structural
 analysis of a tall irregular timber structure. *Structures*.
 * Pan, X., & Yang, T. Y.(2024). Bolt loosening assessment using ensemble vision models for automatic localization and feature extraction with target-free perspective adaptation.*Computer-Aided Civil and Infrastructure Engineering*, 1–16.
