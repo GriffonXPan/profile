@@ -45,7 +45,7 @@ Publications
 ======
 I have published over 30 technical articles including top journal papers in *Computer-aided Civil and Infrastructure Engineering*, *Engineering Structures*, *Earthquake Engineering & Structural Dynamics*, *Journal of Building Engineering*, *Thin-walled Structures*, and *Structures*, etc. Selected journal publications are listed below (in reverse chronological order).
 * Chen Z, Yang T. Y., Xiao Y, Pan X, Yang W (2025). Model reference adaptive hierarchical control framework for shake table tests. *Earthquake Engineering & Structural Dynamics*, 1-17.
-* Pan, X., & Yang, T. Y.(2025). Bolt loosening assessment using ensemble vision models for automatic localization and feature extraction with target-free perspective adaptation.*Computer-Aided Civil and Infrastructure Engineering*, 1–16.
+* Pan, X., & Yang, T. Y.(2025). Bolt loosening assessment using ensemble vision models for automatic localization and feature extraction with target-free perspective adaptation.*Computer-Aided Civil and Infrastructure Engineering*, 40(5), 658-673.
 * Pan, X., Yang, T. T., Liu, R., Xiao, Y., & Xie, F. (2025). A computer vision and point cloud-based monitoring approach for automated construction tasks using full-scale robotized mobile cranes. *Journal of Intelligent Construction*.
 * Tavasoli, S., Poorghasem, S., Pan, X., Yang T. Y., Bao Y. (2025). Autonomous indoor navigation and survivor detection using low-cost micro aerial vehicles. *Computer-aided Civil and Infrastructure Engineering*.
 * Li, W., Zhang, C., Puhl, D., Pan, X., Hassan, M. A., Bird, S., ... & Zhao, Y. (2024). A CNN-Based Framework for Automatic Extraction of High-Resolution River Bankfull Width. *Remote Sensing*, 16(23), 4614.
