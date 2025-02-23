@@ -17,6 +17,7 @@ Education
 
 Professional Experience
 ======
+* Assistant Professor, HKUST, Hong Kong, 2024-present
 * Postdoctoral Research Fellow & PM, UBC, Canada, 2023-2024
 * Visiting Postdoctoral Researcher, Tongji University, China, 2024-2024
 * Substitute Lecturer/Co-instructor, UBC, Canada, 2020-2024
