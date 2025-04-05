@@ -11,11 +11,10 @@ redirect_from:
 
 Research Interests
 ======
-My research falls in smart and resilient structural and construction engineering. My research interests include:
-* Infrastructure inspection, monitoring, and maintenance
-* Digital twin-supported structural design and nondestructive testing
-* Design and assessment of innovative modular structures
-* Construction automation
+My research falls in smart and resilient structural and construction engineering, with an emphasis on:
+* Infrastructure inspection, monitoring, and maintenance using AI, multi-sensor fusion, and mobile robots
+* Design, construction, and assessment of innovative modular structures
+* Automated construction technologies using AI and construction robots
 
 Research Opportunities
 ======
