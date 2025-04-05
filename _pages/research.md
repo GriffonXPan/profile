@@ -44,7 +44,8 @@ I have supervised/co-supervised the following students (program/year of supervis
 Publications
 ======
 I have published over 30 technical articles including top journal papers in *Computer-aided Civil and Infrastructure Engineering*, *Engineering Structures*, *Earthquake Engineering & Structural Dynamics*, *Journal of Building Engineering*, *Thin-walled Structures*, and *Structures*, etc. Selected journal publications are listed below (in reverse chronological order).
-* Chen Z, Yang T. Y., Xiao Y, Pan X, Yang W (2025). Model reference adaptive hierarchical control framework for shake table tests. *Earthquake Engineering & Structural Dynamics*, 1-17.
+* Pan, X., Yang, T.Y., Li, J., Ventura, C., Málaga-Chuquitaype, C., Li, C., Su, R., Brzev S. (2025). A review of recent advances in data-driven computer vision methods for structural damage evaluation: algorithms, applications, challenges, and future opportunities. *Archives of Computational Methods in Engineering*.
+* Chen Z, Yang T. Y., Xiao Y, Pan X, Yang W. (2025). Model reference adaptive hierarchical control framework for shake table tests. *Earthquake Engineering & Structural Dynamics*, 1-17.
 * Pan, X., & Yang, T. Y.(2025). Bolt loosening assessment using ensemble vision models for automatic localization and feature extraction with target-free perspective adaptation.*Computer-Aided Civil and Infrastructure Engineering*, 40(5), 658-673.
 * Pan, X., Yang, T. T., Liu, R., Xiao, Y., & Xie, F. (2025). A computer vision and point cloud-based monitoring approach for automated construction tasks using full-scale robotized mobile cranes. *Journal of Intelligent Construction*.
 * Tavasoli, S., Poorghasem, S., Pan, X., Yang T. Y., Bao Y. (2025). Autonomous indoor navigation and survivor detection using low-cost micro aerial vehicles. *Computer-aided Civil and Infrastructure Engineering*.
@@ -60,5 +61,5 @@ I have published over 30 technical articles including top journal papers in *Com
 * Pan, X., & Yang, T. Y. (2022). Image-based monitoring of bolt loosening through deep-learning-based integrated detection and tracking. *Computer-aided Civil and Infrastructure Engineering*, 37(10), 1207-1222.
 * Xiao, Y., Pan, X., Yang, T. Y. (2022). Nonlinear backstepping hierarchical control of shake table using high-gain observer, *Earthquake Engineering & Structural Dynamics*. 51: 3347– 3366.
 * Pan, X., Yang T.Y. (2020). Postdisaster image-based damage detection and repair cost estimation of reinforced concrete buildings using dual convolutional neural networks. *Computer-aided Civil and Infrastructure Engineering*, 35:495–510.
-* Pan, X., Málaga-Chuquitaype C (2020). Seismic control of rocking structures via external resonators. *Earthquake Engineering & Structural Dynamics*. 49:1180-1196. (Top Cited Article)
+* Pan, X., Málaga-Chuquitaype C. (2020). Seismic control of rocking structures via external resonators. *Earthquake Engineering & Structural Dynamics*. 49:1180-1196. (Top Cited Article)
 * Yang, T. Y., Li, T., Tobber, L., & Pan, X. (2020). Experimental and numerical study of honeycomb structural fuses. *Engineering Structures*, 204, 109814.
