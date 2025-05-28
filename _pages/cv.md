@@ -28,7 +28,8 @@ Professional Experience
 
 Awards & Achievements
 ======
-* 2024  Structural Excellence Award, The Hong Kong Institution of Engineers, Hong Kong
+* 2025  Young Engineer Merit Award, International Association for Bridge and Structural Engineering (IABSE)
+* 2024  Structural Excellence Award, The Hong Kong Institution of Engineers (HKIE), Hong Kong
 * 2024	Globalink Research Award (UBC & Imperial College London), Mitacs, Canada
 * 2022	Top Cited Article Award, Earthquake Engineering & Structural Dynamics Journal (top journal)
 * 2020-2022 President’s Academic Excellence Initiative PhD Award, UBC, Canada
@@ -45,7 +46,7 @@ Professional Services
   * Guest Editor, Journal of Intelligent Construction (2023-2024); Sensors Journal (2024-2025)
 * Reviewer:
   * Canada Foundation for Innovation (CFI) Fund
-  * Computer-aided Civil and Infrastructure Engineering Journal
+  * Computer-Aided Civil and Infrastructure Engineering Journal
   * Engineering Structures Journal
   * Journal of Building Engineering
   * Advances in Structural Engineering Journal
