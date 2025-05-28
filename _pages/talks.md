@@ -10,7 +10,7 @@ author_profile: true
 2025
 * Computer vision-based structural damage inspection: past, present, and future. The 3rd Annual Symposium of Big Data and Artificial Intelligence in Civil Engineering, Harbin, China.
 * Autonomous building indoor inspection using AI and unmanned aerial vehicles. International Association for Bridge and Structural Engineering (IABSE) Symposium Tokyo 2025, Tokyo, Japan.
-* Computer vision-based structural damage inspection: past, present, and future. The Hong Kong University of Science and Technology - “Sharing + Lunch” Session, Harbin, China.
+* Computer vision-based structural damage inspection: past, present, and future. The Hong Kong University of Science and Technology - “Sharing + Lunch” Session, Hong Kong.
 
 2024
 * Recent research on smart infrastructure inspection and monitoring, non-destructive testing, and smart construction. UBCV-UBCO Joint Seminar on Structural and Earthquake Engineering, Kelowna, British Columbia, Canada.
