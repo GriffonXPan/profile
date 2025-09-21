@@ -30,11 +30,6 @@ I am an Assistant Professor at The Hong Kong University of Science and Technolog
   
 * Nov 2024, our paper titled "[__Assessment of out-of-plane structural defects using parallel laser line scanning system__](https://doi.org/10.1111/mice.13102)" was awarded the "__Structural Excellence Award__" by __The Hong Kong Institution of Engineers (HKIE)__.
 
-
-<details>
-<summary>Click for legacy updates</summary>
-
-## Legacy news
 * Nov 2024, the research teams at the [Smart Infrastructure and Construction Research Cluster (SICRC)](https://smartconstruction.apsc.ubc.ca/) at UBC secured a major research grant (CAD$8.3 million) titled "Accelerated code implementation of high-performance energy efficient and carbon-neutral modular buildings", funded by National Resources Canada (NRCan) and National Research Council Canada (NRC). As a Co-Applicant, I have led a team to develop and validate large language models for sensor-based monitoring of modular buildings.
 * Oct 2024, I joined the [Smart Infrastructure and Construction Research Cluster (SICRC)](https://smartconstruction.apsc.ubc.ca/) at UBC as an Affiliated Board Member. The SICRC comprises elite researchers and leading industrial partners in Civil Engineering, Computer Science, Mechanical Engineering, and Construction Management, to catalyze interdisciplinary research on smart infrastructure technologies.
 * Aug 2024, I received the __Mitacs Globalink Research Award__ to conduct collaborative research between UBC and Imperial College London.
@@ -49,9 +44,17 @@ I am an Assistant Professor at The Hong Kong University of Science and Technolog
 * Oct 2019, I received the Faculty of Applied Science Award and Civil Engineering PhD Excellence Award at UBC.
 
 (*NSERC: Natural Sciences and Engineering Research Council of Canada; NRCan: National Resources Canada; NRC: National Research Council Canada; Mitacs: Nonprofit National Research Organization in Canada; FPInnovation: Nonprofit R&D organization in Canada; Rogers Communications: Top 3 telecom company in Canada; Behlen Industries: Canada's largest manufacturer of steel building systems*)
-  
-</details>
 
+<details>
+<summary>Click for legacy updates</summary>
+
+## Legacy news
+Mar 2022, I received the __Highly Cited Article Award__ for my paper titled "Seismic control of rocking structures via external resonators" published in *__Earthquake Engineering & Structural Dynamics__* journal.
+
+Between 2020-2022, I received the President’s Academic Excellence Initiative PhD Award at UBC.
+
+Oct 2019, I received the Faculty of Applied Science Award and Civil Engineering PhD Excellence Award at UBC.
+</details>
 
 
 
