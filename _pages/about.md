@@ -36,22 +36,25 @@ I am an Assistant Professor at The Hong Kong University of Science and Technolog
 * Jan 2023, as a Postdoc and PM, I led subprojects funded by the NSERC Grant "Design and assessment of frameless system for seismic applications", in collaboration with Behlen Industries.
 * Mar 2022, I received the __Highly Cited Article Award__ for my paper titled "Seismic control of rocking structures via external resonators" published in *__Earthquake Engineering & Structural Dynamics__* journal.
 * Jan 2023, as a Postdoc and PM, I led subprojects funded by the NSERC Grant "Design and assessment of frameless system for seismic applications", in collaboration with Behlen Industries.
+* Mar 2022, I received the __Highly Cited Article Award__ for my paper titled "Seismic control of rocking structures via external resonators" published in *__Earthquake Engineering & Structural Dynamics__* journal.
 
 (*NSERC: Natural Sciences and Engineering Research Council of Canada; NRCan: National Resources Canada; NRC: National Research Council Canada; Mitacs: Nonprofit National Research Organization in Canada; FPInnovation: Nonprofit R&D organization in Canada; Rogers Communications: Top 3 telecom company in Canada; Behlen Industries: Canada's largest manufacturer of steel building systems*)
 
-
+### Legacy news
 <details>
-<summary>Legacy updates</summary>
+<summary>Click to expand</summary>
 
-  ## Legacy news
-  
-  Mar 2022, I received the __Highly Cited Article Award__ for my paper titled "Seismic control of rocking structures via external resonators" published in *__Earthquake Engineering & Structural Dynamics__* journal.
-  
-  Between 2020-2022, I received the President’s Academic Excellence Initiative PhD Award at UBC. 
-  
-  Oct 2019, I received the Faculty of Applied Science Award and Civil Engineering PhD Excellence Award at UBC.
-
+- Between 2020-2022, I received the President’s Academic Excellence Initiative PhD Award at UBC..
+- Oct 2019, I received the Faculty of Applied Science Award and Civil Engineering PhD Excellence Award at UBC.
 </details>
+
+(ALT+255)<details><summary>Legacy updates</summary>
+### Legacy news
+* Between 2020-2022, I received the President’s Academic Excellence Initiative PhD Award at UBC.
+* Oct 2019, I received the Faculty of Applied Science Award and Civil Engineering PhD Excellence Award at UBC.
+</details>
+
+
 
 
 
