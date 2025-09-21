@@ -42,9 +42,7 @@ I am an Assistant Professor at The Hong Kong University of Science and Technolog
 
 ### Legacy news
 <details>
-  <summary>
-    Click to expand
-  </summary>
+  <summary>Click to expand</summary>
   
   * Between 2020-2022, I received the President’s Academic Excellence Initiative PhD Award at UBC.
     
