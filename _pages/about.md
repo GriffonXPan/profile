@@ -12,8 +12,8 @@ I am an Assistant Professor at The Hong Kong University of Science and Technolog
 <!---Comment go here. This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).-->
 
 
-Recent news
-======
+## Recent news
+
 * Aug 2025, I have served as a Session Chair for the __3rd China-Canada Symposium on Structural & Earthquake Engineering (CCSSEE)__ in Vancouver, Canada. I have delivered an invited speech about “Large language model-driven AI agents for smart inspection and construction: preliminary studies”.
 * July 2025, I have served as a Session Chair for the “CV-Enhanced SHM" technical session at the __16th International Workshop on Advanced Smart Materials and Smart Structures Technology (ANCRiSST)__ in Hong Kong SAR. I have delivered an invited speech about “Computer vision-based structural damage inspection and health monitoring: recent studies”.
 * May 2025, I have served as a Session Chair for the “Computer Vision for Civil Engineering” technical session at the __3rd Annual Symposium of Big Data and Artificial Intelligence in Civil Engineering__ in Harbin, China. I have delivered a keynote presentation about “Computer vision-based structural damage inspection: past, present, and future”.
@@ -27,8 +27,7 @@ Recent news
 <details>
   <summary>Click for legacy updates</summary>
   
-  Legacy news
-  ======
+  ## Legacy news
   * Nov 2024, the research teams at the [Smart Infrastructure and Construction Research Cluster (SICRC)](https://smartconstruction.apsc.ubc.ca/) at UBC secured a major research grant (CAD$8.3 million) titled "Accelerated code implementation of high-performance energy efficient and carbon-neutral modular buildings", funded by National Resources Canada (NRCan) and National Research Council Canada (NRC). As a Co-Applicant, I have led a team to develop and validate large language models for sensor-based monitoring of modular buildings.
   * Oct 2024, I joined the [Smart Infrastructure and Construction Research Cluster (SICRC)](https://smartconstruction.apsc.ubc.ca/) at UBC as an Affiliated Board Member. The SICRC comprises elite researchers and leading industrial partners in Civil Engineering, Computer Science, Mechanical Engineering, and Construction Management, to catalyze interdisciplinary research on smart infrastructure technologies.
   * Aug 2024, I received the __Mitacs Globalink Research Award__ to conduct collaborative research between UBC and Imperial College London.
@@ -43,6 +42,7 @@ Recent news
   * Oct 2019, I received the Faculty of Applied Science Award and Civil Engineering PhD Excellence Award at UBC.
   
   (*NSERC: Natural Sciences and Engineering Research Council of Canada; NRCan: National Resources Canada; NRC: National Research Council Canada; Mitacs: Nonprofit National Research Organization in Canada; FPInnovation: Nonprofit R&D organization in Canada; Rogers Communications: Top 3 telecom company in Canada; Behlen Industries: Canada's largest manufacturer of steel building systems*)
+  
 </details>
 
 
