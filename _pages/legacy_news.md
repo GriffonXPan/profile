@@ -1,11 +1,12 @@
 ---
-permalink: /legacy_news/
+layout: archive
 title: "Legacy news"
-author_profile: True
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /legacy_news/
+author_profile: true
+redirect_from:
+  - /resume
 ---
+
 
 ## Legacy news
 * Nov 2023, I joined the Early-Career Editorial Board of the Journal of Intelligent Construction.
