@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /legacy_news/
 title: "Legacy news"
 author_profile: True
 redirect_from: 
