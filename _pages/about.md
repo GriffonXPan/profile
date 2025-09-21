@@ -43,7 +43,7 @@ Recent news
   * Oct 2019, I received the Faculty of Applied Science Award and Civil Engineering PhD Excellence Award at UBC.
   
   (*NSERC: Natural Sciences and Engineering Research Council of Canada; NRCan: National Resources Canada; NRC: National Research Council Canada; Mitacs: Nonprofit National Research Organization in Canada; FPInnovation: Nonprofit R&D organization in Canada; Rogers Communications: Top 3 telecom company in Canada; Behlen Industries: Canada's largest manufacturer of steel building systems*)
-  ```
+</details>
 
 
 
