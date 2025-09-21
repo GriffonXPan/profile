@@ -40,11 +40,12 @@ I am an Assistant Professor at The Hong Kong University of Science and Technolog
 
 (*NSERC: Natural Sciences and Engineering Research Council of Canada; NRCan: National Resources Canada; NRC: National Research Council Canada; Mitacs: Nonprofit National Research Organization in Canada; FPInnovation: Nonprofit R&D organization in Canada; Rogers Communications: Top 3 telecom company in Canada; Behlen Industries: Canada's largest manufacturer of steel building systems*)
 
-
+### Legacy news
 <details markdown="1">
-  <summary>Legacy updates</summary>
-  
-  ### Legacy news
+  <summary>
+    Click to expand
+  </summary>
+
   * Between 2020-2022, I received the President’s Academic Excellence Initiative PhD Award at UBC.
     
   * Oct 2019, I received the Faculty of Applied Science Award and Civil Engineering PhD Excellence Award at UBC.
