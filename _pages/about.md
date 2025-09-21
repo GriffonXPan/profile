@@ -49,12 +49,12 @@ I am an Assistant Professor at The Hong Kong University of Science and Technolog
 <summary>Click for legacy updates</summary>
 
 ## Legacy news
-Mar 2022, I received the __Highly Cited Article Award__ for my paper titled "Seismic control of rocking structures via external resonators" published in *__Earthquake Engineering & Structural Dynamics__* journal.
+* Mar 2022, I received the __Highly Cited Article Award__ for my paper titled "Seismic control of rocking structures via external resonators" published in *__Earthquake Engineering & Structural Dynamics__* journal.
+* Between 2020-2022, I received the President’s Academic Excellence Initiative PhD Award at UBC.
+* Oct 2019, I received the Faculty of Applied Science Award and Civil Engineering PhD Excellence Award at UBC.
 
-Between 2020-2022, I received the President’s Academic Excellence Initiative PhD Award at UBC.
-
-Oct 2019, I received the Faculty of Applied Science Award and Civil Engineering PhD Excellence Award at UBC.
 </details>
+
 
 
 
