@@ -38,7 +38,7 @@ I am an Assistant Professor at The Hong Kong University of Science and Technolog
   
 * Aug 2024, the UBC Smart Structures Research Group secured the Mitacs Accelerate Fund titled "Smart Automated AI-Driven Digital Construction using 5G network", funded by Mitacs and Rogers Communication (top 3 telecom company in Canada). As a Co-Applicant, I have led a team to develop computer vision and point cloud techniques for construction site monitoring.
   
-<h2 id="my-heading"> <a href="https://griffonxpan.github.io/profile/legacy_news">Legacy-news</a> </h2>
+<h2 id="my-heading"> <a href="https://griffonxpan.github.io/profile/legacy_news">Legacy news</a> </h2>
 
 
 
