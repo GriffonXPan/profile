@@ -2,9 +2,6 @@
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am an Assistant Professor at The Hong Kong University of Science and Technology (HKUST). My research falls in smart and resilient structural and construction engineering, which involves the development and application of machine learning, deep learning, robots, computer vision, sensor fusion, and innovative structural components and systems, to enhance the engineering practice through computer simulations, laboratory tests, and field validations.
