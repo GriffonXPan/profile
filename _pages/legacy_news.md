@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Legacy news"
+title: ""
 permalink: /legacy_news/
 author_profile: true
 redirect_from:
