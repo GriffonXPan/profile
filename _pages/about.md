@@ -39,8 +39,6 @@ I am an Assistant Professor at The Hong Kong University of Science and Technolog
 * Aug 2024, the UBC Smart Structures Research Group secured the Mitacs Accelerate Fund titled "Smart Automated AI-Driven Digital Construction using 5G network", funded by Mitacs and Rogers Communication (top 3 telecom company in Canada). As a Co-Applicant, I have led a team to develop computer vision and point cloud techniques for construction site monitoring.
   
 
-(*NSERC: Natural Sciences and Engineering Research Council of Canada; NRCan: National Resources Canada; NRC: National Research Council Canada; Mitacs: Nonprofit National Research Organization in Canada; FPInnovation: Nonprofit R&D organization in Canada; Rogers Communications: Top 3 telecom company in Canada; Behlen Industries: Canada's largest manufacturer of steel building systems*)
-
 ## Legacy news
 <details>
   <summary>
@@ -62,6 +60,8 @@ I am an Assistant Professor at The Hong Kong University of Science and Technolog
   * Between 2020-2022, I received the President’s Academic Excellence Initiative PhD Award at UBC.
     
   * Oct 2019, I received the Faculty of Applied Science Award and Civil Engineering PhD Excellence Award at UBC.
+    
+    (*NSERC: Natural Sciences and Engineering Research Council of Canada; NRCan: National Resources Canada; NRC: National Research Council Canada; Mitacs: Nonprofit National Research Organization in Canada; FPInnovation: Nonprofit R&D organization in Canada; Rogers Communications: Top 3 telecom company in Canada; Behlen Industries: Canada's largest manufacturer of steel building systems*)
     
 </details>
 
