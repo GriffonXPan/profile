@@ -11,10 +11,9 @@ redirect_from:
 
 Research Interests
 ======
-My research falls in smart and resilient structural and construction engineering, with an emphasis on:
 * Infrastructure inspection, monitoring, and maintenance using AI, multi-sensor fusion, and mobile robots
-* Design, construction, and assessment of innovative modular structures
-* Automated construction technologies using AI and construction robots
+* Design and assessment of innovative modular structures
+* Construction monitoring and robotic assembly technologies
 
 Research Opportunities
 ======
