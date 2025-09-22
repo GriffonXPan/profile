@@ -8,7 +8,7 @@ author_profile: true
 
 My teaching interests fall in structural and earthquake engineering. My teaching activities are shown below.
 
-2025 (expected),	 Instructor, The Hong Kong University of Science and Technology, Hong Kong SAR
+2025 - present, Instructor, The Hong Kong University of Science and Technology, Hong Kong SAR
  * CIVL 2110 – Statics
  * CIVL 4370 – Computer Methods of Structural Analysis
    
