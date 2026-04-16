@@ -1,4 +1,4 @@
----
+<img width="468" height="26" alt="image" src="https://github.com/user-attachments/assets/9b26af90-16da-4b6a-8638-7617671cc4c6" />---
 layout: archive
 title: "Selected Talks"
 permalink: /talks2/
@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 2025
+* Computer vision and 3D point cloud-driven structural damage inspection: past, present, and future. Institute of Engineering Mechanics, China Earthquake Administration, Harbin, China.
+* AI, computer vision, and robot-driven infrastructure inspection and digital construction: recent studies. Guangzhou University, Guangzhou, China.
 * Computer vision-based structural damage inspection: past, present, and future. The 3rd Annual Symposium of Big Data and Artificial Intelligence in Civil Engineering, Harbin, China.
 * Autonomous building indoor inspection using AI and unmanned aerial vehicles. International Association for Bridge and Structural Engineering (IABSE) Symposium Tokyo 2025, Tokyo, Japan.
 * Computer vision-based structural damage inspection: past, present, and future. The Hong Kong University of Science and Technology - “Sharing + Lunch” Session, Hong Kong.
