@@ -12,27 +12,33 @@ redirect_from:
 Research Interests
 ======
 * Infrastructure inspection, monitoring, and maintenance using AI, multi-sensor fusion, and mobile robots
+* Automated engineering drawing analysis for design and construction automation
 * Design and assessment of innovative modular structures
 * Construction monitoring and robotic assembly technologies
 
 Research Opportunities
 ======
-* __Student Openings__: Multiple positions are available in my research team for the MPhil/PhD program (at HKUST) or MASc/PhD program (at UBC), which are expected to work on the use of AI and smart technologies for structural and construction engineering applications, design and assessment of novel modular structural systems and energy dissipation approaches, etc. Prospective students should have a suitable academic background in civil engineering, mechanical engineering, computer science, robotics, applied mathematics, or related disciplines. Preference will be given to students with prior knowledge and experience in 1) programming of AI, computer vision, point cloud analysis, robotics, Augmented/Mixed Reality, Building Information Modelling (BIM), such as Pytorch, OpenCV, Open3D, Hugging Face, OpenMMLab, ROS, MATLAB, Unity, Dynamo BIM, IfcOpenShell, etc. 2) structural analysis software such as OpenSees, Abaqus, Etabs, SAP 2000, etc. 3) hands-on experimental testing such as quasi-static, shake table, and hybrid simulation tests, etc. Please email me your CV and transcripts if you are interested.
-* __Research Collaboration Potential__: I am co-investigating multiple research projects focusing on 1) design and assessment of modular timber, steel, and hybrid structures. 2) digital twin solutions for construction automation. 3) AI-empowered structural design, testing, and maintenance.  Interested and self-motivated researchers are welcome to contact me to discuss collaboration opportunities (remote/on-site/hybrid mode).
+* __PhD/MPhil Student Openings__: My research team is generally open for PhD/MPhil applications. Prospective students should have a suitable academic background in civil engineering, mechanical engineering, computer science, robotics, applied mathematics, or related disciplines. Preference will be given to students with prior knowledge and experience in 1) programming of AI, computer vision, point cloud analysis, robotics, Augmented/Mixed Reality, Building Information Modelling (BIM), such as Pytorch, OpenCV, Open3D, Hugging Face, Isaac Sim, ManiSkill, OpenMMLab, ROS, MATLAB, Unity, Dynamo BIM, IfcOpenShell, etc. 2) structural analysis software such as OpenSees, Abaqus, ANSYS, Etabs, etc. 3) hands-on experimental testing such as quasi-static, shake table, and hybrid simulation tests, etc. Please email me your CV and transcripts if you are interested.
+* __Visiting Student/Professor Opportunities__: My research group is generally open for visiting scholars or research interns. Interested and self-motivated researchers are welcome to contact me with a tentative plan.
 
 Student Supervision
 ======
-I have supervised/co-supervised the following students (program/year of supervision/institution):
-* S.Tavasoli (PhD, 2022-present. UBC)
+* A. Abedi (PhD, 2026-present, HKUST)
+* HY. Zhang (PhD, 2026-present, HKUST)
+* YM. Chen (PhD, 2025-present, HKUST)
+* M. Asgarinejad (PhD, 2026-present, HKUST, expected)
+* CH. Li (Visiting PhD, 2025-present, HKUST/Chongqing Jiaotong U)
+* J. Gu (RA, 2026-present, HKUST)
+* BY. Huang (RA, 2025-present, HKUST)
 * F.Xie (PhD, 2024-present; MASc, 2023-2024. UBC)
 * ZW.Chen (PhD, 2024-present; MASc, 2023-2024. UBC)
-* A.Ghahremani Baghmisheh (PhD, 2024-present. UBC)
-* HS.Lin (RA/Incoming PhD, 2024-present. South China U of Tech)
-* PJ.Chen (Mitacs Master Intern, 2024-present. National Taiwan UST)
+* HS.Lin (PhD, 2024-present. UBC)
+* S.Tavasoli (PhD, 2022-2025. UBC)
 * YF.Xiao (PhD, 2022-2024. UBC)
+* PJ.Chen (Mitacs Master Intern, 2024-present. National Taiwan UST)
 * CB.Li (PhD, 2023-2023. The University of Hong Kong)
-* E.Faraji (MASc, 2022-2024. UBC)
-* S.Vaze (MASc, 2022-2023. UBC)
+* E.Faraji (Master, 2022-2024. UBC)
+* S.Vaze (Master, 2022-2023. UBC)
 * RW.Liu (Mitacs UG intern, 2023. Wuhan U of Tech)
 * WY.Yang (Mitacs UG intern, 2023. Harbin I.T.)
 * ZH.Chen (Mitacs UG intern, 2022. Hong Kong PolyU)
@@ -41,7 +47,9 @@ I have supervised/co-supervised the following students (program/year of supervis
 
 Publications
 ======
-I have published over 30 technical articles including top journal papers in *Computer-aided Civil and Infrastructure Engineering*, *Engineering Structures*, *Earthquake Engineering & Structural Dynamics*, *Journal of Building Engineering*, *Thin-walled Structures*, and *Structures*, etc. Selected journal publications are listed below (in reverse chronological order).
+I have published over 40 technical articles including top journal papers in *Computer-aided Civil and Infrastructure Engineering*, *Engineering Structures*, *Earthquake Engineering & Structural Dynamics*, *Journal of Building Engineering*, *Thin-walled Structures*, and *Structures*, etc. Selected journal publications are listed below (in reverse chronological order).
+* Zhang, H., Pan, X., Asgarinejad, M., & Song, T. (2026). Multimodal large language model-driven framework for road crack assessment. *Automation in Construction*, 185, 106872.
+* Chen, Y., Pan, X., Zhang, H., Ma, Y., & Zhang, H. (2026). Fast vision-based 3D reconstruction and damage detection of building structures based on visual geometry grounded transformer. *Journal of Building Engineering*, 116066.
 * Pan, X., Yang, T.Y., Li, J., Ventura, C., Málaga-Chuquitaype, C., Li, C., Su, R., Brzev S. (2025). A review of recent advances in data-driven computer vision methods for structural damage evaluation: algorithms, applications, challenges, and future opportunities. *Archives of Computational Methods in Engineering*.
 * Chen Z, Yang T. Y., Xiao Y, Pan X, Yang W. (2025). Model reference adaptive hierarchical control framework for shake table tests. *Earthquake Engineering & Structural Dynamics*, 1-17.
 * Pan, X., & Yang, T. Y.(2025). Bolt loosening assessment using ensemble vision models for automatic localization and feature extraction with target-free perspective adaptation.*Computer-Aided Civil and Infrastructure Engineering*, 40(5), 658-673.
