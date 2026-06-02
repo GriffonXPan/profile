@@ -48,6 +48,7 @@ Student Supervision
 Publications
 ======
 I have published over 40 technical articles including top journal papers in *Computer-aided Civil and Infrastructure Engineering*, *Engineering Structures*, *Earthquake Engineering & Structural Dynamics*, *Journal of Building Engineering*, *Thin-walled Structures*, and *Structures*, etc. Selected journal publications are listed below (in reverse chronological order).
+* Xiao, Y., Yang, T. Y., Pan, X., Xie, F., & Liu, R. (2026). Development and Implementation of Machine Learning–Based Hierarchical Approach for Autonomous Retaining Wall Construction Using a Robotized Crane. Journal of Computing in Civil Engineering, 40(5), 04026055.
 * Zhang, H., Pan, X., Asgarinejad, M., & Song, T. (2026). Multimodal large language model-driven framework for road crack assessment. *Automation in Construction*, 185, 106872.
 * Chen, Y., Pan, X., Zhang, H., Ma, Y., & Zhang, H. (2026). Fast vision-based 3D reconstruction and damage detection of building structures based on visual geometry grounded transformer. *Journal of Building Engineering*, 116066.
 * Pan, X., Yang, T.Y., Li, J., Ventura, C., Málaga-Chuquitaype, C., Li, C., Su, R., Brzev S. (2025). A review of recent advances in data-driven computer vision methods for structural damage evaluation: algorithms, applications, challenges, and future opportunities. *Archives of Computational Methods in Engineering*.
