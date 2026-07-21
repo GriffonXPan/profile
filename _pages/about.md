@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at The Hong Kong University of Science and Technology (HKUST). My research falls in smart and resilient structural, earthquake, and construction engineering, with an emphasis on 1) structural damage detection and health monitoring, 2) vision-language model-driven semantic reasoning of engineering drawings for design and construction automation, 3) design and assessment of innovative modular structures under seismic and wind loads, and 4) construction robotics and monitoring methods. This involves the development and application of AI, computer vision, 3D point clouds, signal processing, and robots, etc., to enhance the current engineering practice in design, construction, and service stages of civil infrastructure, through computer simulations, laboratory tests, and field validations.
+I am an Assistant Professor at The Hong Kong University of Science and Technology (HKUST), where I led the [__Machine Vision & Smart Infrastructure (MVSI) Lab__](https://cexiaopan.people.ust.hk/).
 
 ## Recent news
 
